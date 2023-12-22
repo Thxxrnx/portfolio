@@ -1,0 +1,16 @@
+sous-titre: "Formations"
+formations:
+  - diplome: "Baccalauréat Général"
+    specialite: "Géopolitique et Science économique et sociale"
+    lieu: "Lycée Charles de Gaulle, Caen"
+    date: "2020"
+
+  - diplome: "Licence Informatique"
+    specialite: null  # Spécialité si applicable, sinon null
+    lieu: "Université Caen Normandie"
+    date: "2021 - 2022"
+
+  - diplome: "BTS Service Informatique aux Organisations"
+    specialite: "Solutions d'infrastructure, systèmes et réseaux"
+    lieu: "CaenSup Sainte-Ursule, Caen"
+    date: "Année en cours"
